@@ -4,10 +4,11 @@
 
 This project simulates a digital dice through arduino uno and 7 segment display.
 
-Version 2 (V2) - I added button so that the loop begins every time button is pressed otherwise it is in waiting mode
+Version 2 (V2) - I added a button so that the loop begins every time button is pressed otherwise it remains in waiting mode
 
 ## Components
 
+### Version 1
 - Arduino Uno
 - USB Cable
 - Breadboard
@@ -17,7 +18,7 @@ Version 2 (V2) - I added button so that the loop begins every time button is pre
 
 ![Components1](images/componentsV1.jpg)
 
-### V2 Additionals
+### Version 2 Additions
 
 - Button 
 
@@ -25,6 +26,7 @@ Version 2 (V2) - I added button so that the loop begins every time button is pre
 
 ## Wiring
 
+### Version 1
 - 5V -> Segment Display pin 3
 - 5V -> Segment Display pin 8
 - Arduino digital pin 2 -> Segment Display pin DP - 5
@@ -38,7 +40,7 @@ Version 2 (V2) - I added button so that the loop begins every time button is pre
 
 ![Circuit1](images/circuitV1.jpg)
 
-### V2 Additionals
+### Version 2 Additions
 
 - GND -> Button
 - Aduino digital pin 12 -> Button
@@ -57,7 +59,7 @@ Version 2 (V2) - I added button so that the loop begins every time button is pre
 
 ## Skills Learned
 
-- 7 Segemnt Display Wiring
+- 7 Segment Display Wiring
 - 7 Segment Display Usage - Coding
 - randomSeed()
 - random()
