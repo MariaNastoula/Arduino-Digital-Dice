@@ -15,13 +15,13 @@ Version 2 (V2) - I added button so that the loop begins every time button is pre
 - 8 x 220Ω resistors
 - Jumper Wires
 
-!(Components)(images/componentsV1.jpg)
+![Components1](images/componentsV1.jpg)
 
 ### V2 Additionals
 
 - Button 
 
-!(Components)(images/componentsV2.jpg)
+![Components2](images/componentsV2.jpg)
 
 ## Wiring
 
@@ -36,24 +36,24 @@ Version 2 (V2) - I added button so that the loop begins every time button is pre
 - Arduino digital pin 9 -> Segment Display pin F - 9
 - Arduino digital pin 10 -> Segment Display pin G - 10
 
-!(Circuit)(images/circuitV1.jpg)
+![Circuit1](images/circuitV1.jpg)
 
 ### V2 Additionals
 
 - GND -> Button
 - Aduino digital pin 12 -> Button
 
-!(Circuit)(images/circuitV2.jpg)
+![Circuit2](images/circuitV2.jpg)
 
 ## Diagram
 
 ### Version 1
 
-!(Diagram)(images/diagramV1.jpg)
+![Diagram1](images/diagramV1.jpg)
 
 ### Version 2
 
-!(Diagram)(images/diagramV2.jpg)
+![Diagram2](images/diagramV2.jpg)
 
 ## Skills Learned
 
